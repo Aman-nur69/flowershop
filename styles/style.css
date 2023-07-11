@@ -106,12 +106,12 @@
     margin-bottom: 0px;
     margin-left: 150px;
     margin-right: 150px;
+    text-align: center;
 
 }
 .section-3caption{
     color:black;
     font-size: 10px;
-    text-align:center;
 }
 .hotdeal-container{
     display: flex;
@@ -187,4 +187,29 @@
     border-radius: 4px;
     background: #E55473;
     color:white;
+}
+.top-text{
+    text-align: center;
+}
+.top-img{
+    padding-top: 25px;
+    height:170px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 40px;
+    
+}
+.top-container{
+    text-align: center;
+    
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 30px;
+}
+.credit{
+    font-size: x-small;
 }

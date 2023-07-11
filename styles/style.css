@@ -196,7 +196,7 @@
     height:170px;
     display: flex;
     justify-content: center;
-    gap: 10px;
+    gap: 20px;
     margin-bottom: 40px;
     
 }
@@ -212,4 +212,20 @@
 }
 .credit{
     font-size: x-small;
+}
+.extra{
+    background:yellow;
+    padding: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 5px;
+
+}
+.pp{
+    height: 180px;
+}
+.caption2{
+    color:black;
+    text-align:center;
+    font-size: small;
 }

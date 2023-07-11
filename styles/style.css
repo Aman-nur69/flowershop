@@ -34,7 +34,7 @@
     margin-bottom: 10px;
 }
 .section-2{
-    margin-top: 50px;
+    margin-top: 80px;
     text-align:center;
 }
 #section-2{
@@ -85,6 +85,7 @@
     justify-content:center;
     align-items: center;
     margin-top: 35px;
+    margin-bottom: 50px;
     gap: 20px;  
 }
 .caption{
@@ -109,7 +110,7 @@
 }
 .section-3caption{
     color:black;
-    font-size: 6px;
+    font-size: 10px;
     text-align:center;
 }
 .hotdeal-container{
@@ -139,4 +140,51 @@
     width: 200px;
     height: 280px;
     
+}
+#hotdeal-para{
+    font-size: 12px;
+}
+.insta-text{
+    text-align: center;
+}
+.insta-para{
+    font-size: small;
+}
+.insta-part{
+    padding-top: 100px;
+}
+.insta-img{
+    padding-top: 25px;
+    height:170px;
+    display: flex;
+    justify-content: center;
+    gap: 6px;
+}
+.getdeal-text{
+    text-align: center;
+}
+.getdeal-container{
+    height: 180px;
+    width: auto;
+    padding: 50px;
+    background-image: url('../Flower Asset/Rectangle\ 9.png');
+    border-radius: 4px;
+    margin-top: 40px;
+    margin-bottom:40px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.getdeal-para{
+    font-size: 10px;
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+.sub-button{
+    padding: 8px 15px;
+    align-items: center;
+    gap:3px;
+    border: #E55473;
+    border-radius: 4px;
+    background: #E55473;
+    color:white;
 }

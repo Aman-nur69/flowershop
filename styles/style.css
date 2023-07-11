@@ -16,7 +16,7 @@
     
 }
 .header-text{
-    padding-top: 30px;
+    padding-top: 60px;
 }
 #header-button{
     padding: 8px 15px;
@@ -32,4 +32,81 @@
     font-weight: 400px;
     margin-top: 5px;
     margin-bottom: 10px;
+}
+.section-2{
+    margin-top: 50px;
+    text-align:center;
+}
+#section-2{
+    margin-top: 10px;
+    font-size: 9px;
+    font-weight: 400px;
+}
+.Box1{
+    width: 170px;
+    height: 200px;
+    background-color:rgba(167, 33, 98, 0.15);
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+.Box2{
+    width: 170px;
+    height: 200px;
+    background-color:rgba(5, 151, 160, 0.15);
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+.Box3{
+    width: 170px;
+    height: 200px;
+    background-color:rgba(71, 125, 17, 0.15);
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+.img-1{
+    width: 140px;
+    height: 200px;
+   
+}
+.img-2{
+    width: 140px;
+    height: 200px;
+    
+}
+.img-3{
+    width: 140px;
+    height: 200px;
+   
+    
+}
+.box-container{
+    padding: 20px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    margin-top: 35px;
+    gap: 20px;  
+}
+.caption{
+    color:black;
+    text-align:center;
+    text-decoration: underline;
+    font-size: small;
+}
+.section-3container{
+    background: #FFF;
+    height: 350px;
+    width: auto;
+    padding: 50px 220px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 30px;
+
+}
+.section-3caption{
+    color:black;
+    font-size: 7px;
+    text-align:center;
+
 }
